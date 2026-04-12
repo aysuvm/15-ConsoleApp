@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DomainLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DomainLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainLayer.dll": {}
+        }
+      },
+      "RepositoryLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DomainLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RepositoryLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RepositoryLayer.dll": {}
+        }
+      },
+      "ServiceLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DomainLayer": "1.0.0",
+          "RepositoryLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ServiceLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServiceLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DomainLayer/1.0.0": {
+      "type": "project",
+      "path": "../DomainLayer/DomainLayer.csproj",
+      "msbuildProject": "../DomainLayer/DomainLayer.csproj"
+    },
+    "RepositoryLayer/1.0.0": {
+      "type": "project",
+      "path": "../RepositoryLayer/RepositoryLayer.csproj",
+      "msbuildProject": "../RepositoryLayer/RepositoryLayer.csproj"
+    },
+    "ServiceLayer/1.0.0": {
+      "type": "project",
+      "path": "../ServiceLayer/ServiceLayer.csproj",
+      "msbuildProject": "../ServiceLayer/ServiceLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "RepositoryLayer >= 1.0.0",
+      "ServiceLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aysum\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\aysum\\OneDrive\\Desktop\\15-ConsoleApp\\CourseApp\\Course application\\Course application.csproj",
+      "projectName": "Course application",
+      "projectPath": "C:\\Users\\aysum\\OneDrive\\Desktop\\15-ConsoleApp\\CourseApp\\Course application\\Course application.csproj",
+      "packagesPath": "C:\\Users\\aysum\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aysum\\OneDrive\\Desktop\\15-ConsoleApp\\CourseApp\\Course application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\aysum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\aysum\\OneDrive\\Desktop\\15-ConsoleApp\\CourseApp\\RepositoryLayer\\RepositoryLayer.csproj": {
+              "projectPath": "C:\\Users\\aysum\\OneDrive\\Desktop\\15-ConsoleApp\\CourseApp\\RepositoryLayer\\RepositoryLayer.csproj"
+            },
+            "C:\\Users\\aysum\\OneDrive\\Desktop\\15-ConsoleApp\\CourseApp\\ServiceLayer\\ServiceLayer.csproj": {
+              "projectPath": "C:\\Users\\aysum\\OneDrive\\Desktop\\15-ConsoleApp\\CourseApp\\ServiceLayer\\ServiceLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

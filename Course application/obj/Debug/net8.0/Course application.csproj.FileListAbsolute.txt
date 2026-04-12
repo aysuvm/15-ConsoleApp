@@ -1,0 +1,23 @@
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\Course application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\Course application.AssemblyInfoInputs.cache
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\Course application.AssemblyInfo.cs
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\Course application.csproj.CoreCompileInputs.cache
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\bin\Debug\net8.0\Course application.exe
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\bin\Debug\net8.0\Course application.deps.json
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\bin\Debug\net8.0\Course application.runtimeconfig.json
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\bin\Debug\net8.0\Course application.dll
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\bin\Debug\net8.0\Course application.pdb
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\bin\Debug\net8.0\RepositoryLayer.dll
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\bin\Debug\net8.0\ServiceLayer.dll
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\bin\Debug\net8.0\ServiceLayer.pdb
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\bin\Debug\net8.0\RepositoryLayer.pdb
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\Course application.csproj.AssemblyReference.cache
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\Course a.7B12BBA6.Up2Date
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\Course application.dll
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\refint\Course application.dll
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\Course application.pdb
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\Course application.genruntimeconfig.cache
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\ref\Course application.dll
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\Course application\obj\Debug\net8.0\Course application.sourcelink.json
