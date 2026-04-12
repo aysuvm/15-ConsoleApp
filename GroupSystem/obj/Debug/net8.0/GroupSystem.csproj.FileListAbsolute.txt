@@ -1,0 +1,11 @@
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\GroupSystem\bin\Debug\net8.0\GroupSystem.deps.json
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\GroupSystem\bin\Debug\net8.0\GroupSystem.dll
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\GroupSystem\bin\Debug\net8.0\GroupSystem.pdb
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\GroupSystem\obj\Debug\net8.0\GroupSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\GroupSystem\obj\Debug\net8.0\GroupSystem.AssemblyInfoInputs.cache
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\GroupSystem\obj\Debug\net8.0\GroupSystem.AssemblyInfo.cs
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\GroupSystem\obj\Debug\net8.0\GroupSystem.csproj.CoreCompileInputs.cache
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\GroupSystem\obj\Debug\net8.0\GroupSystem.dll
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\GroupSystem\obj\Debug\net8.0\refint\GroupSystem.dll
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\GroupSystem\obj\Debug\net8.0\GroupSystem.pdb
+C:\Users\aysum\OneDrive\Desktop\15-ConsoleApp\CourseApp\GroupSystem\obj\Debug\net8.0\ref\GroupSystem.dll
